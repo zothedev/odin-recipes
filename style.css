@@ -8,6 +8,11 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    text-align: center;
+    border-bottom: dashed 1px black;
+}
+
 a {
     text-decoration: none;
     color: rgb(0, 0, 0);
@@ -16,3 +21,7 @@ a {
     border-bottom: solid rgb(0, 0, 0) 1px;
 }
 
+.recipe-image {
+    border: 3px black solid;
+    
+}
