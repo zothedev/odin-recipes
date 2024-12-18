@@ -1,12 +1,7 @@
-# The Odin Project #1 - HTML Recipes Website
+# The Odin Project #1.1 - HTML Recipes Website Styled
 
 ## Project Description:
-In this project, I created a recipe website that has three separate recipe pages each with their own picture, description, ingredients, and cooking steps. The website also contains a homepage with links for each of these recipes along with links to travel back to the homepage within the recipe pages.
-
+Previously, found on the main branch of this repo, I made a simple HTML recipes website. This sub-project is to practice applying the limited CSS that I have been introduced to. This styled recipes website isn't meant to look very good. It's simply an opportunity to put my CSS skills to use on an existing project.
 
 ## Demonstrated Skills:
-In this project, I demonstrated basic HTML skills such as using correct semantic headings, properly adding images (including alt text), creating both ordered and unordered lists, and intuitively linking pages together using anchor elements.
-
-I also demonstrated how to properly structure my files within my project and showed off my git skills by committing often and using strong git commit messages to help future me and other developers.
-
-While this project is rather basic, getting in the habit of correctly following HTML and git best practices will allow me to become a better developer over time. A future project in The Odin Project (TOP) will allow me to come back to this project and spice it up using CSS.
+In this sub-project, I demonstrated understanding of basic CSS. I utilized an external stylesheet and linked it within the `<head>` element of my HTML file. I used basic CSS properties such as `background-color`, `color`, `font-family`, `font-size`, `text-align`, and more. Additionally, I showed understanding of CSS Specificity and the *Cascade* part of Cascading Style Sheets (CSS)
