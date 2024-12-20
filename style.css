@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(196, 185, 30, 0.671);
+    background-color: rgba(90, 86, 137, 0.671);
     font-family: Verdana, sans-serif;
 }
 
@@ -26,16 +26,16 @@ h2 {
 
 li a {
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-size: 30px;
     font-weight: bold;
-    border-bottom: solid rgb(0, 0, 0) 1px;
+    border-bottom: solid rgb(255, 255, 255) 1px;
     
 }
 
 li a:hover {
-    color: rgb(255, 82, 82);
-    border-bottom: solid rgb(255, 82, 82) 1px;
+    color: rgb(229, 255, 61);
+    border-bottom: solid rgb(229, 255, 61) 1px;
 
 }
 
