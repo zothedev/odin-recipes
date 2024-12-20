@@ -1,5 +1,10 @@
 # The Odin Project #1 - HTML Recipes Website
 
+*Note:* See the branch "styled" the CSS version of the website.
+- v1.0: HTML only - main branch
+- v1.1: Basic CSS only - styled branch
+- v1.2: Basic CSS + positioning - styled branch
+
 ## Project Description:
 In this project, I created a recipe website that has three separate recipe pages each with their own picture, description, ingredients, and cooking steps. The website also contains a homepage with links for each of these recipes along with links to travel back to the homepage within the recipe pages.
 
