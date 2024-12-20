@@ -12,6 +12,11 @@ body {
     padding: 10px;
 }
 
+.recipe-image-page {
+    width: 300px;
+    margin: 0 auto;
+}
+
 .images {
     /* border: red solid 1px; */
     /* display: inline-block; */
