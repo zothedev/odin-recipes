@@ -1,6 +1,6 @@
 # The Odin Project #1 - HTML Recipes Website
 
-*Note:* See the branch "styled" the CSS version of the website.
+*Note:* See the branch "styled" for the CSS version of the website.
 - v1.0: HTML only - main branch
 - v1.1: Basic CSS only - styled branch
 - v1.2: Basic CSS + positioning - styled branch
