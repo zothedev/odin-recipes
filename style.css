@@ -33,6 +33,12 @@ li a {
     
 }
 
+li a:hover {
+    color: rgb(255, 82, 82);
+    border-bottom: solid rgb(255, 82, 82) 1px;
+
+}
+
 .recipe-image {
     border: 3px black solid;
 }
