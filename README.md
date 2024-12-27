@@ -5,6 +5,10 @@
 - v1.1: Basic CSS only - styled branch
 - v1.2: Basic CSS + positioning - styled branch
 
+[Preview v1.2 - Styled Website](https://zothedev.github.io/odin-recipes/index.html)
+
+*As noted in the `README.md` of the styled branch, this website is not meant to be visually pleasing. It's simply a playground for my first experience with CSS properties.*
+
 ## Project Description:
 In this project, I created a recipe website that has three separate recipe pages each with their own picture, description, ingredients, and cooking steps. The website also contains a homepage with links for each of these recipes along with links to travel back to the homepage within the recipe pages.
 
